@@ -1,0 +1,14 @@
+{
+  "name": "muneeb",
+  "account_id": "987acc319116a56f181c52c44892cc20",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-10-19",
+  "workers_dev": true,
+  "rules": [
+    {
+      "type": "Text",
+      "globs": ["**/*.lua"],
+      "fallthrough": true
+    }
+  ]
+}
